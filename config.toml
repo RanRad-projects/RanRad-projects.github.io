@@ -1,0 +1,4 @@
+baseURL = 'https://ranrad-projects.github.io/'
+languageCode = 'en-us'
+title = 'Random radio projects'
+theme = 'terminal'
